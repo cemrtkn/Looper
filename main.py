@@ -6,6 +6,7 @@ import pyaudio
 from time import time, sleep
 import RPi.GPIO as GPIO
 import gc
+import random
 
 from pysoundLooper import loopingThread
 
